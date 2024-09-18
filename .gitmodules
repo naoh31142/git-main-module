@@ -1,0 +1,3 @@
+[submodule "modules/reference/git-sub-module"]
+	path = modules/reference/git-sub-module
+	url = C:/Users/jefflai/Desktop/code/git-sub-module/.git
